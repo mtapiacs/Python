@@ -5,3 +5,4 @@ Here are my python projects and algorithms:
 * **BankAccount:** Repository for bank account in python that uses oop.
 * **FizzBuzz:** Repository for python FizzBuzz.
 * **PalindromeChecker:** Repository for a Python Palindrome Checker.
+* **SimpleTextAnalysis:** Repository for a Python Text Analysis Project.
