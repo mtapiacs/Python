@@ -7,4 +7,3 @@
 3. FizzBuzz Algorithm
 4. Palindrome Checker Algorithm
 5. SimpleTextAnalysis - Visualizes data from text
-
