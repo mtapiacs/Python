@@ -4,6 +4,7 @@
 #### Included:
 1. AgeInSeconds Converter
 2. Bank Account Templater
-3. FizzBuzz Algorithm
-4. Palindrome Checker Algorithm
-5. SimpleTextAnalysis - Visualizes data from text
+3. Python Dictionary GUI
+4. FizzBuzz Algorithm
+5. Palindrome Checker Algorithm
+6. SimpleTextAnalysis - Visualizes data from text
